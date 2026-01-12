@@ -22,8 +22,14 @@
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-5" value="业务发起" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vD_a2uZ6ttmDS0bjpa9H-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vD_a2uZ6ttmDS0bjpa9H-7" target="vD_a2uZ6ttmDS0bjpa9H-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-7" value="上传流水文件" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="354" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vD_a2uZ6ttmDS0bjpa9H-9" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
