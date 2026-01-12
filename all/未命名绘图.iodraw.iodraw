@@ -138,6 +138,9 @@
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;shape=flexArrow;dashed=1;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vD_a2uZ6ttmDS0bjpa9H-58" target="vD_a2uZ6ttmDS0bjpa9H-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="vD_a2uZ6ttmDS0bjpa9H-62" value="GET /c4c3/project/report/generateReport/{groupId}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="465" y="1348" width="290" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
