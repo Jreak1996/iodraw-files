@@ -43,7 +43,7 @@
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="vD_a2uZ6ttmDS0bjpa9H-19" source="vD_a2uZ6ttmDS0bjpa9H-11" target="vD_a2uZ6ttmDS0bjpa9H-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vD_a2uZ6ttmDS0bjpa9H-11" value="获取Cookie" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="vD_a2uZ6ttmDS0bjpa9H-19">
+        <mxCell id="vD_a2uZ6ttmDS0bjpa9H-11" value="生成Cookie" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="vD_a2uZ6ttmDS0bjpa9H-19">
           <mxGeometry x="80" y="635.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="vD_a2uZ6ttmDS0bjpa9H-19" source="vD_a2uZ6ttmDS0bjpa9H-13" target="vD_a2uZ6ttmDS0bjpa9H-15">
