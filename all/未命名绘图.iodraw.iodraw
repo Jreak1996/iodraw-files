@@ -7,7 +7,7 @@
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-17" value="流水分析" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="70" width="590" height="1100" as="geometry" />
         </mxCell>
-        <mxCell id="vD_a2uZ6ttmDS0bjpa9H-18" value="普惠数智平台" style="swimlane;startSize=20;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="vD_a2uZ6ttmDS0bjpa9H-17">
+        <mxCell id="vD_a2uZ6ttmDS0bjpa9H-18" value="" style="swimlane;startSize=20;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="vD_a2uZ6ttmDS0bjpa9H-17">
           <mxGeometry y="20" width="310" height="1080" as="geometry" />
         </mxCell>
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="vD_a2uZ6ttmDS0bjpa9H-18" source="vD_a2uZ6ttmDS0bjpa9H-0" target="vD_a2uZ6ttmDS0bjpa9H-3">
@@ -73,16 +73,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-30" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="620.0000000000005" y="70" width="360" height="480" as="geometry" />
+          <mxGeometry x="620.0000000000005" y="70" width="360" height="1100" as="geometry" />
         </mxCell>
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-31" value="Lane 1" style="swimlane;startSize=20;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="vD_a2uZ6ttmDS0bjpa9H-30">
-          <mxGeometry y="20" width="120" height="460" as="geometry" />
+          <mxGeometry y="20" width="120" height="1080" as="geometry" />
         </mxCell>
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-32" value="Lane 2" style="swimlane;startSize=20;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="vD_a2uZ6ttmDS0bjpa9H-30">
-          <mxGeometry x="120" y="20" width="120" height="460" as="geometry" />
+          <mxGeometry x="120" y="20" width="120" height="1080" as="geometry" />
         </mxCell>
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-33" value="Lane 3" style="swimlane;startSize=20;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="vD_a2uZ6ttmDS0bjpa9H-30">
-          <mxGeometry x="240" y="20" width="120" height="460" as="geometry" />
+          <mxGeometry x="240" y="20" width="120" height="1080" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
