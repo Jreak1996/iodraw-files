@@ -64,7 +64,7 @@
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-41" value="POST&amp;nbsp;/c4c3/account/common/getToken" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="vD_a2uZ6ttmDS0bjpa9H-31">
           <mxGeometry x="-90.00000000000045" y="500" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vD_a2uZ6ttmDS0bjpa9H-15" value="生成" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="vD_a2uZ6ttmDS0bjpa9H-31">
+        <mxCell id="vD_a2uZ6ttmDS0bjpa9H-15" value="接收文件并分析" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="vD_a2uZ6ttmDS0bjpa9H-31">
           <mxGeometry x="154.99999999999955" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-42" value="返回token" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="vD_a2uZ6ttmDS0bjpa9H-31">
