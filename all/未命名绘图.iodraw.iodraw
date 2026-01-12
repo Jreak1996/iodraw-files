@@ -84,8 +84,8 @@
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;dashed=1;shape=flexArrow;startArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vD_a2uZ6ttmDS0bjpa9H-26" target="vD_a2uZ6ttmDS0bjpa9H-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vD_a2uZ6ttmDS0bjpa9H-43" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="615" y="728" width="50" height="30" as="geometry" />
+        <mxCell id="vD_a2uZ6ttmDS0bjpa9H-43" value="GET /c4c3/account/common/tokenLogin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="728" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
