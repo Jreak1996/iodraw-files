@@ -58,6 +58,9 @@
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="vD_a2uZ6ttmDS0bjpa9H-17" source="vD_a2uZ6ttmDS0bjpa9H-9" target="vD_a2uZ6ttmDS0bjpa9H-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="vD_a2uZ6ttmDS0bjpa9H-21" value="生成Cookie" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="735.5" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
