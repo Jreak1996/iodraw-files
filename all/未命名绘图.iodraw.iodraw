@@ -8,10 +8,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-0" value="登录系统" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="190" width="70" height="70" as="geometry" />
+          <mxGeometry x="80" y="190" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vD_a2uZ6ttmDS0bjpa9H-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vD_a2uZ6ttmDS0bjpa9H-3" target="vD_a2uZ6ttmDS0bjpa9H-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-3" value="进入企业中心" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="225" y="195" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vD_a2uZ6ttmDS0bjpa9H-5" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="425" y="195" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
