@@ -43,11 +43,17 @@
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-26" value="获取Cookie" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="vD_a2uZ6ttmDS0bjpa9H-19">
           <mxGeometry x="90" y="650" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vD_a2uZ6ttmDS0bjpa9H-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="vD_a2uZ6ttmDS0bjpa9H-19" source="vD_a2uZ6ttmDS0bjpa9H-13" target="vD_a2uZ6ttmDS0bjpa9H-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-13" value="调用文件上传接口" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="vD_a2uZ6ttmDS0bjpa9H-19">
           <mxGeometry x="90" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="vD_a2uZ6ttmDS0bjpa9H-19" source="vD_a2uZ6ttmDS0bjpa9H-9" target="vD_a2uZ6ttmDS0bjpa9H-26">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vD_a2uZ6ttmDS0bjpa9H-47" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="vD_a2uZ6ttmDS0bjpa9H-19">
+          <mxGeometry x="90" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="vD_a2uZ6ttmDS0bjpa9H-17" source="vD_a2uZ6ttmDS0bjpa9H-7" target="vD_a2uZ6ttmDS0bjpa9H-9">
           <mxGeometry relative="1" as="geometry" />
