@@ -74,7 +74,7 @@
           <mxGeometry x="285" y="740.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-51" value="POST /c4c3/project/confirmStageUploadLogs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="vD_a2uZ6ttmDS0bjpa9H-19" vertex="1">
-          <mxGeometry x="197" y="968.5" width="270" height="30" as="geometry" />
+          <mxGeometry x="230" y="980" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-57" value="&lt;font color=&quot;#ff3333&quot;&gt;GET URL待定(&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;我方提供)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="vD_a2uZ6ttmDS0bjpa9H-19" vertex="1">
           <mxGeometry x="245" y="1118.5" width="160" height="30" as="geometry" />
