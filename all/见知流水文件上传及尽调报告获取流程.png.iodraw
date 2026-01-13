@@ -70,9 +70,6 @@
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-42" value="返回token" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="vD_a2uZ6ttmDS0bjpa9H-19" vertex="1">
           <mxGeometry x="285" y="590.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vD_a2uZ6ttmDS0bjpa9H-43" value="GET /c4c3/account/common/tokenLogin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="vD_a2uZ6ttmDS0bjpa9H-19" vertex="1">
-          <mxGeometry x="215" y="710.5" width="240" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-44" value="返回Cookie" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="vD_a2uZ6ttmDS0bjpa9H-19" vertex="1">
           <mxGeometry x="285" y="740.5" width="80" height="30" as="geometry" />
         </mxCell>
@@ -83,7 +80,7 @@
           <mxGeometry x="245" y="1118.5" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-46" value="POST&amp;nbsp;/c4c3/project/remoteUploadSplitFile" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="vD_a2uZ6ttmDS0bjpa9H-19" vertex="1">
-          <mxGeometry x="205" y="848.5" width="250" height="30" as="geometry" />
+          <mxGeometry x="250" y="848.5" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="vD_a2uZ6ttmDS0bjpa9H-19" source="vD_a2uZ6ttmDS0bjpa9H-65" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -128,6 +125,9 @@
         </mxCell>
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-41" value="POST&amp;nbsp;/c4c3/account/common/getToken" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="vD_a2uZ6ttmDS0bjpa9H-31" vertex="1">
           <mxGeometry x="-155.00000000000045" y="560" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vD_a2uZ6ttmDS0bjpa9H-43" value="GET /c4c3/account/common/tokenLogin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="vD_a2uZ6ttmDS0bjpa9H-31" vertex="1">
+          <mxGeometry x="-160.00000000000045" y="710" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;shape=flexArrow;dashed=1;endArrow=block;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vD_a2uZ6ttmDS0bjpa9H-58" target="vD_a2uZ6ttmDS0bjpa9H-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
