@@ -189,8 +189,8 @@
         <mxCell id="LDNMvQ4tryP7mHiBsYEf-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;dashed=1;startArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LDNMvQ4tryP7mHiBsYEf-0" target="LDNMvQ4tryP7mHiBsYEf-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LDNMvQ4tryP7mHiBsYEf-14" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1140" y="660" width="100" height="100" as="geometry" />
+        <mxCell id="LDNMvQ4tryP7mHiBsYEf-15" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1140" y="879" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
