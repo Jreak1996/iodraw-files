@@ -97,6 +97,9 @@
         <mxCell id="LDNMvQ4tryP7mHiBsYEf-6" value="返回报文" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vD_a2uZ6ttmDS0bjpa9H-19">
           <mxGeometry x="330" y="1570.5" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LDNMvQ4tryP7mHiBsYEf-7" value="返回文件流" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vD_a2uZ6ttmDS0bjpa9H-19">
+          <mxGeometry x="325" y="1290.5" width="80" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="vD_a2uZ6ttmDS0bjpa9H-17" source="vD_a2uZ6ttmDS0bjpa9H-7" target="vD_a2uZ6ttmDS0bjpa9H-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -167,9 +170,6 @@
         </mxCell>
         <mxCell id="LDNMvQ4tryP7mHiBsYEf-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;dashed=1;startArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LDNMvQ4tryP7mHiBsYEf-0" target="LDNMvQ4tryP7mHiBsYEf-2">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LDNMvQ4tryP7mHiBsYEf-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="625" y="1378" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
