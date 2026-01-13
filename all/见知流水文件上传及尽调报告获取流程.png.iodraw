@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-17" value="普惠数智平台" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="30" y="70" width="680" height="1990" as="geometry" />
+          <mxGeometry x="30" y="70" width="775" height="1990" as="geometry" />
         </mxCell>
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-18" value="前端" style="swimlane;startSize=20;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="vD_a2uZ6ttmDS0bjpa9H-17" vertex="1">
           <mxGeometry y="20" width="270" height="1970" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="75" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-19" value="后端" style="swimlane;startSize=20;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="vD_a2uZ6ttmDS0bjpa9H-17" vertex="1">
-          <mxGeometry x="270" y="20" width="410" height="1970" as="geometry" />
+          <mxGeometry x="270" y="20" width="505" height="1970" as="geometry" />
         </mxCell>
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-9" value="申请token" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="vD_a2uZ6ttmDS0bjpa9H-19" vertex="1">
           <mxGeometry x="90" y="560" width="120" height="60" as="geometry" />
@@ -93,6 +93,9 @@
         </mxCell>
         <mxCell id="LDNMvQ4tryP7mHiBsYEf-0" value="调用有效流入与流入方接口" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="vD_a2uZ6ttmDS0bjpa9H-19">
           <mxGeometry x="90" y="1540.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LDNMvQ4tryP7mHiBsYEf-4" value="GET&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;/c4c3/watson/api/overview/getCrProportion&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vD_a2uZ6ttmDS0bjpa9H-19">
+          <mxGeometry x="225" y="1540.5" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="vD_a2uZ6ttmDS0bjpa9H-17" source="vD_a2uZ6ttmDS0bjpa9H-7" target="vD_a2uZ6ttmDS0bjpa9H-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -162,8 +165,8 @@
         <mxCell id="LDNMvQ4tryP7mHiBsYEf-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;dashed=1;startArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LDNMvQ4tryP7mHiBsYEf-0" target="LDNMvQ4tryP7mHiBsYEf-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LDNMvQ4tryP7mHiBsYEf-4" value="GET&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;/c4c3/watson/api/overview/getCrProportion&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="1618" width="280" height="30" as="geometry" />
+        <mxCell id="LDNMvQ4tryP7mHiBsYEf-5" value="返回报文" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="625" y="1668" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
