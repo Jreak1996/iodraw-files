@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="IUMMrhRBpBC_T5EzWx57">
-    <mxGraphModel dx="2901" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -153,8 +153,8 @@
         <mxCell id="SwIHq6_kiCIHKPkGj92d-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;shape=flexArrow;dashed=1;endArrow=block;" edge="1" parent="1" source="SwIHq6_kiCIHKPkGj92d-21" target="SwIHq6_kiCIHKPkGj92d-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SwIHq6_kiCIHKPkGj92d-49" value="&lt;h1&gt;流水分析-有效流入与流入方报文获取流程&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="10" width="460" height="70" as="geometry" />
+        <mxCell id="SwIHq6_kiCIHKPkGj92d-49" value="&lt;h1&gt;有效流入与流入方报文获取流程&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="70" y="10" width="360" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
