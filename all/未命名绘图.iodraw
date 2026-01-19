@@ -47,7 +47,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VgxTTpWQ0kuWkqjFS04c-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="SwIHq6_kiCIHKPkGj92d-10" source="SwIHq6_kiCIHKPkGj92d-15" target="SwIHq6_kiCIHKPkGj92d-21">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="881" />
+              <mxPoint x="50" y="1291" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="SwIHq6_kiCIHKPkGj92d-15" value="调用文件上传接口" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="SwIHq6_kiCIHKPkGj92d-10" vertex="1">
           <mxGeometry x="90" y="850.5" width="120" height="60" as="geometry" />
