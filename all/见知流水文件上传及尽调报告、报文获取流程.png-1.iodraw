@@ -193,7 +193,7 @@
           <mxGeometry x="-180.00000000000045" y="1717" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LDNMvQ4tryP7mHiBsYEf-50" value="查询上传数据状态" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="vD_a2uZ6ttmDS0bjpa9H-31" vertex="1">
-          <mxGeometry x="114.99999999999955" y="1006.75" width="120" height="60" as="geometry" />
+          <mxGeometry x="114.99999999999955" y="1005.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LDNMvQ4tryP7mHiBsYEf-52" value="POST&amp;nbsp;/c4c3/project/upload/getRemotePendings" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="vD_a2uZ6ttmDS0bjpa9H-31" vertex="1">
           <mxGeometry x="-80.00000000000045" y="976.75" width="280" height="30" as="geometry" />
