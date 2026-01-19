@@ -123,16 +123,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LDNMvQ4tryP7mHiBsYEf-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="vD_a2uZ6ttmDS0bjpa9H-19" source="LDNMvQ4tryP7mHiBsYEf-23" target="vD_a2uZ6ttmDS0bjpa9H-47" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LDNMvQ4tryP7mHiBsYEf-30" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="LDNMvQ4tryP7mHiBsYEf-29" vertex="1" connectable="0">
-          <mxGeometry x="-0.1111" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LDNMvQ4tryP7mHiBsYEf-23" value="判断是否&lt;div&gt;上传成功&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" parent="vD_a2uZ6ttmDS0bjpa9H-19" vertex="1">
           <mxGeometry x="90" y="981.5" width="120" height="108.5" as="geometry" />
         </mxCell>
