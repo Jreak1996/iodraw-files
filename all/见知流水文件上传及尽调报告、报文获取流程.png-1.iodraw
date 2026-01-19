@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-17" value="普惠数智平台" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="30" y="71" width="660" height="2220" as="geometry" />
+          <mxGeometry x="30" y="71" width="760" height="2220" as="geometry" />
         </mxCell>
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-18" value="前端" style="swimlane;startSize=20;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="vD_a2uZ6ttmDS0bjpa9H-17" vertex="1">
           <mxGeometry y="20" width="270" height="2200" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="95" y="2087" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-19" value="后端" style="swimlane;startSize=20;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="vD_a2uZ6ttmDS0bjpa9H-17" vertex="1">
-          <mxGeometry x="270" y="20" width="390" height="2200" as="geometry" />
+          <mxGeometry x="270" y="20" width="490" height="2200" as="geometry" />
         </mxCell>
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-9" value="申请token" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="vD_a2uZ6ttmDS0bjpa9H-19" vertex="1">
           <mxGeometry x="90" y="560" width="120" height="60" as="geometry" />
@@ -69,7 +69,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NpFjBWsH60Zwcq2X51cL-1" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NpFjBWsH60Zwcq2X51cL-0">
+        <mxCell id="NpFjBWsH60Zwcq2X51cL-1" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NpFjBWsH60Zwcq2X51cL-0">
           <mxGeometry x="-0.3646" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
