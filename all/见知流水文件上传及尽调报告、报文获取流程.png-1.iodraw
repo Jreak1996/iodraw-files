@@ -64,10 +64,14 @@
         <mxCell id="NpFjBWsH60Zwcq2X51cL-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="vD_a2uZ6ttmDS0bjpa9H-19" source="LDNMvQ4tryP7mHiBsYEf-23" target="LDNMvQ4tryP7mHiBsYEf-0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="90" y="1189" />
-              <mxPoint x="40" y="1189" />
+              <mxPoint x="40" y="1036" />
               <mxPoint x="40" y="1749" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NpFjBWsH60Zwcq2X51cL-1" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NpFjBWsH60Zwcq2X51cL-0">
+          <mxGeometry x="-0.3646" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vD_a2uZ6ttmDS0bjpa9H-47" value="调用生成报告接口" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="vD_a2uZ6ttmDS0bjpa9H-19" vertex="1">
