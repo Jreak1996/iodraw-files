@@ -263,7 +263,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3H3v1bjRvjHBnAMKxuHC-44" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3H3v1bjRvjHBnAMKxuHC-43">
+        <mxCell id="3H3v1bjRvjHBnAMKxuHC-44" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;web访问&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3H3v1bjRvjHBnAMKxuHC-43">
           <mxGeometry x="-0.4373" y="5" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
