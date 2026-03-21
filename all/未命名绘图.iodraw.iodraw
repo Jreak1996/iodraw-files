@@ -145,7 +145,7 @@
           <mxGeometry x="1409" y="995" width="107" height="101" as="geometry" />
         </mxCell>
         <mxCell id="GQDP0Qh3lQPFjnwK73UM-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;前置服务器&lt;/font&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.license_server;" vertex="1" parent="1">
-          <mxGeometry x="287" y="195.5" width="97.12" height="127" as="geometry" />
+          <mxGeometry x="284.44" y="180" width="97.12" height="127" as="geometry" />
         </mxCell>
         <mxCell id="GQDP0Qh3lQPFjnwK73UM-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -160,7 +160,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GQDP0Qh3lQPFjnwK73UM-4" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="177" y="863" width="310" height="318" as="geometry" />
+          <mxGeometry x="177" y="600" width="310" height="318" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-58" value="DMZ区" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=14;strokeColor=none;verticalAlign=top;" parent="GQDP0Qh3lQPFjnwK73UM-4" vertex="1">
           <mxGeometry width="310" height="318" as="geometry" />
