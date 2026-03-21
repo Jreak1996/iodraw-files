@@ -94,7 +94,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="w7u0oeEh1lP4t7KCWRCU-140" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;数据缓存&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="w7u0oeEh1lP4t7KCWRCU-139" vertex="1" connectable="0">
+        <mxCell id="w7u0oeEh1lP4t7KCWRCU-140" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;数据缓存&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="w7u0oeEh1lP4t7KCWRCU-139" vertex="1" connectable="0">
           <mxGeometry x="-0.3004" relative="1" as="geometry">
             <mxPoint x="1" y="7" as="offset" />
           </mxGeometry>
@@ -326,7 +326,7 @@
         <mxCell id="3H3v1bjRvjHBnAMKxuHC-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w7u0oeEh1lP4t7KCWRCU-23" target="w7u0oeEh1lP4t7KCWRCU-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3H3v1bjRvjHBnAMKxuHC-26" value="数据存储" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3H3v1bjRvjHBnAMKxuHC-25">
+        <mxCell id="3H3v1bjRvjHBnAMKxuHC-26" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;数据存储&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3H3v1bjRvjHBnAMKxuHC-25">
           <mxGeometry x="-0.0618" y="-1" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
