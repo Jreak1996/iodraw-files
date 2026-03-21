@@ -107,6 +107,9 @@
         <mxCell id="mY8_ipCo88euKz28lbLL-69" value="客户端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="mY8_ipCo88euKz28lbLL-70" vertex="1">
           <mxGeometry x="10.5" y="80" width="54" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="3H3v1bjRvjHBnAMKxuHC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="w7u0oeEh1lP4t7KCWRCU-49" source="mY8_ipCo88euKz28lbLL-68" target="w7u0oeEh1lP4t7KCWRCU-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="" tags="背景" id="w7u0oeEh1lP4t7KCWRCU-60">
           <mxCell style="vsdxID=60;fillColor=none;gradientColor=none;points=[];labelBackgroundColor=none;rounded=0;strokeColor=none;html=1;whiteSpace=wrap;" parent="1" vertex="1">
             <mxGeometry x="398" y="714" width="233" height="274" as="geometry" />
