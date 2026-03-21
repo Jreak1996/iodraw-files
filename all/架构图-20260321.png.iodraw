@@ -122,7 +122,7 @@
               <mxPoint x="-60" y="13" as="offset" />
               <Array as="points">
                 <mxPoint x="693" y="852" />
-                <mxPoint x="693.17" y="679.44" />
+                <mxPoint x="693" y="566" />
               </Array>
             </mxGeometry>
           </mxCell>
@@ -523,7 +523,7 @@
           <mxGeometry x="10.5" y="80" width="54" height="26" as="geometry" />
         </mxCell>
         <mxCell id="3H3v1bjRvjHBnAMKxuHC-15" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="730" y="526" width="310" height="304" as="geometry" />
+          <mxGeometry x="744" y="412" width="310" height="304" as="geometry" />
         </mxCell>
         <UserObject label="" tags="Background" id="w7u0oeEh1lP4t7KCWRCU-108">
           <mxCell style="vsdxID=104;edgeStyle=none;startArrow=none;endArrow=block;startSize=5;endSize=5;strokeWidth=2;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;exitX=1.0044642857142858;exitY=0.5055350553505535;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.4414715719063545;entryDx=0;entryDy=0;entryPerimeter=0;" parent="3H3v1bjRvjHBnAMKxuHC-15" source="w7u0oeEh1lP4t7KCWRCU-50" edge="1">
