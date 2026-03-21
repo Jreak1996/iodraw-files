@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="w7u0oeEh1lP4t7KCWRCU-145" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#f6982f;dashed=1;strokeWidth=2;arcSize=7;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="940" width="232" height="138" as="geometry" />
-        </mxCell>
         <mxCell id="3H3v1bjRvjHBnAMKxuHC-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="3H3v1bjRvjHBnAMKxuHC-10" target="w7u0oeEh1lP4t7KCWRCU-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -106,11 +103,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1263" y="852" as="sourcePoint" />
             <mxPoint x="1263" y="940" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mY8_ipCo88euKz28lbLL-19" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;数据存储&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mY8_ipCo88euKz28lbLL-18" vertex="1" connectable="0">
-          <mxGeometry x="-0.1504" y="-2" relative="1" as="geometry">
-            <mxPoint x="-50" y="-156" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mY8_ipCo88euKz28lbLL-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.841;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" parent="1" source="w7u0oeEh1lP4t7KCWRCU-123" edge="1">
