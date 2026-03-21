@@ -13,7 +13,7 @@
         <mxCell id="6a7d8f32e03d9370-59" value="Citrix XenApp Server Farm&lt;div&gt;with firewalls&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#EDEDED;fontSize=14;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="599" y="98" width="280" height="1010" as="geometry" />
         </mxCell>
-        <mxCell id="6a7d8f32e03d9370-57" value="互联网区" style="whiteSpace=wrap;html=1;fillColor=#FFD470;gradientColor=none;fontSize=14;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="6a7d8f32e03d9370-57" value="托管云" style="whiteSpace=wrap;html=1;fillColor=#FFD470;gradientColor=none;fontSize=14;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="179" y="98" width="308" height="322" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-36" style="edgeStyle=none;rounded=0;html=1;startSize=10;endSize=10;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;" parent="1" source="6a7d8f32e03d9370-1" target="6a7d8f32e03d9370-14" edge="1">
