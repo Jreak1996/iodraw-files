@@ -518,8 +518,8 @@
         <mxCell id="mY8_ipCo88euKz28lbLL-69" value="客户端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="mY8_ipCo88euKz28lbLL-70" vertex="1">
           <mxGeometry x="10.5" y="80" width="54" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3H3v1bjRvjHBnAMKxuHC-16" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="288" y="1100" width="40" height="26" as="geometry" />
+        <mxCell id="3H3v1bjRvjHBnAMKxuHC-16" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;托管云及DMZ区&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" y="1096" width="147" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
