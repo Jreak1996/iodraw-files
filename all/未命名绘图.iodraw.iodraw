@@ -184,7 +184,7 @@
           <mxGeometry x="499" y="30" width="861" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GQDP0Qh3lQPFjnwK73UM-1" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.license_server;" vertex="1" parent="1">
-          <mxGeometry x="198.94" y="393" width="97.12" height="127" as="geometry" />
+          <mxGeometry x="240" y="338" width="97.12" height="127" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
