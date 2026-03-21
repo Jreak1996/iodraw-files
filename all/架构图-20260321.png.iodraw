@@ -46,8 +46,8 @@
         </mxCell>
         <mxCell id="mY8_ipCo88euKz28lbLL-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1760" y="1200" as="sourcePoint" />
-            <mxPoint x="1760" y="60" as="targetPoint" />
+            <mxPoint x="1576" y="1201" as="sourcePoint" />
+            <mxPoint x="1576" y="61" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mY8_ipCo88euKz28lbLL-29" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;总行系统&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -62,7 +62,7 @@
           <mxGeometry x="1809" y="528" width="390" height="270" as="geometry" />
         </mxCell>
         <mxCell id="mY8_ipCo88euKz28lbLL-67" value="" style="group" parent="mY8_ipCo88euKz28lbLL-65" vertex="1" connectable="0">
-          <mxGeometry y="-50" width="221" height="295" as="geometry" />
+          <mxGeometry x="-149" y="-50" width="221" height="295" as="geometry" />
         </mxCell>
         <mxCell id="mY8_ipCo88euKz28lbLL-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#f6982f;dashed=1;strokeWidth=3;" parent="mY8_ipCo88euKz28lbLL-67" vertex="1">
           <mxGeometry y="3" width="221" height="267" as="geometry" />
