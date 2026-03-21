@@ -17,18 +17,13 @@
           <mxGeometry x="177" y="863" width="310" height="318" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-57" value="互联网区" style="whiteSpace=wrap;html=1;fillColor=#FFD470;gradientColor=none;fontSize=14;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="179" y="98" width="308" height="680" as="geometry" />
+          <mxGeometry x="179" y="98" width="308" height="322" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-36" style="edgeStyle=none;rounded=0;html=1;startSize=10;endSize=10;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;" parent="1" source="6a7d8f32e03d9370-1" target="6a7d8f32e03d9370-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-1" value="Client" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.laptop_2;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="350.4999999999999" y="927" width="116" height="86.5" as="geometry" />
-        </mxCell>
-        <mxCell id="6a7d8f32e03d9370-35" style="edgeStyle=none;rounded=0;html=1;startSize=10;endSize=10;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;" parent="1" target="6a7d8f32e03d9370-9" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="468.5" y="692.5241020793951" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-37" style="edgeStyle=none;rounded=0;html=1;startSize=10;endSize=10;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;" parent="1" source="6a7d8f32e03d9370-6" target="6a7d8f32e03d9370-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -165,7 +160,7 @@
           <mxGeometry x="499" y="30" width="861" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GQDP0Qh3lQPFjnwK73UM-1" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.license_server;" vertex="1" parent="1">
-          <mxGeometry x="240" y="338" width="97.12" height="127" as="geometry" />
+          <mxGeometry x="296.38" y="272" width="97.12" height="127" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
