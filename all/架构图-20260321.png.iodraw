@@ -236,15 +236,6 @@
         <mxCell id="mY8_ipCo88euKz28lbLL-30" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://images.icon-icons.com/2483/PNG/512/permissions_icon_149902.png;" parent="mY8_ipCo88euKz28lbLL-33" vertex="1">
           <mxGeometry width="142" height="142" as="geometry" />
         </mxCell>
-        <mxCell id="mY8_ipCo88euKz28lbLL-66" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="2138" y="636" width="75" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="mY8_ipCo88euKz28lbLL-41" value="" style="group" parent="mY8_ipCo88euKz28lbLL-66" vertex="1" connectable="0">
-          <mxGeometry width="75" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="mY8_ipCo88euKz28lbLL-43" value="&lt;div style=&quot;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px; text-indent: 0px; vertical-align: middle; direction: ltr;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0); direction: ltr; letter-spacing: 0px; line-height: 120%; opacity: 1; font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;RLMS&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" style="verticalAlign=middle;align=center;overflow=width;vsdxID=5;fillColor=none;gradientColor=none;strokeColor=none;strokeWidth=2;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="mY8_ipCo88euKz28lbLL-41" vertex="1">
-          <mxGeometry x="1.7857142857143344" y="81" width="71.42857142857143" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="mY8_ipCo88euKz28lbLL-31" value="&lt;div style=&quot;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px; text-indent: 0px; vertical-align: middle; direction: ltr;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0); direction: ltr; letter-spacing: 0px; line-height: 120%; opacity: 1; font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;总行权限组件&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" style="verticalAlign=middle;align=center;overflow=width;vsdxID=5;fillColor=none;gradientColor=none;strokeColor=none;strokeWidth=2;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1753.4" y="556" width="78.21" height="40" as="geometry" />
         </mxCell>
@@ -259,6 +250,9 @@
         </mxCell>
         <mxCell id="mY8_ipCo88euKz28lbLL-42" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://images.icon-icons.com/2497/PNG/512/api_interface_icon_150308.png;" parent="1" vertex="1">
           <mxGeometry x="1736" y="763" width="127" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="mY8_ipCo88euKz28lbLL-43" value="&lt;div style=&quot;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px; text-indent: 0px; vertical-align: middle; direction: ltr;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0); direction: ltr; letter-spacing: 0px; line-height: 120%; opacity: 1; font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;RLMS&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" style="verticalAlign=middle;align=center;overflow=width;vsdxID=5;fillColor=none;gradientColor=none;strokeColor=none;strokeWidth=2;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1763.7857142857142" y="876" width="71.42857142857143" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
