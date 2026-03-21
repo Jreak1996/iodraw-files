@@ -162,7 +162,7 @@
         <mxCell id="GQDP0Qh3lQPFjnwK73UM-4" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="177" y="600" width="310" height="318" as="geometry" />
         </mxCell>
-        <mxCell id="6a7d8f32e03d9370-58" value="DMZ区" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=14;strokeColor=none;verticalAlign=top;" parent="GQDP0Qh3lQPFjnwK73UM-4" vertex="1">
+        <mxCell id="6a7d8f32e03d9370-58" value="DMZ" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=14;strokeColor=none;verticalAlign=top;" parent="GQDP0Qh3lQPFjnwK73UM-4" vertex="1">
           <mxGeometry width="310" height="318" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-1" value="Client" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.laptop_2;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" parent="GQDP0Qh3lQPFjnwK73UM-4" vertex="1">
