@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="w7u0oeEh1lP4t7KCWRCU-121" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#f6982f;dashed=1;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="w7u0oeEh1lP4t7KCWRCU-121" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#f6982f;dashed=1;strokeWidth=3;arcSize=8;" parent="1" vertex="1">
           <mxGeometry x="990" y="394" width="643" height="300" as="geometry" />
         </mxCell>
         <mxCell id="3H3v1bjRvjHBnAMKxuHC-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="3H3v1bjRvjHBnAMKxuHC-10" target="w7u0oeEh1lP4t7KCWRCU-61">
@@ -354,7 +354,7 @@
         </mxCell>
         <UserObject label="&lt;div style=&quot;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px; text-indent: 0px; vertical-align: middle; direction: ltr;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0); direction: ltr; letter-spacing: 0px; line-height: 120%; opacity: 1; font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;应用服务器&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" tags="Background" id="w7u0oeEh1lP4t7KCWRCU-48">
           <mxCell style="verticalAlign=middle;align=center;overflow=width;vsdxID=48;fillColor=none;gradientColor=none;strokeColor=none;strokeWidth=2;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-            <mxGeometry x="990" y="394" width="100" height="40" as="geometry" />
+            <mxGeometry x="1012" y="395.24" width="100" height="40" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
