@@ -90,7 +90,7 @@
           <mxGeometry x="17.5" y="96.00320754716981" width="72" height="34" as="geometry" />
         </mxCell>
         <mxCell id="3H3v1bjRvjHBnAMKxuHC-16" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;托管云及DMZ区&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="280" y="1118" width="147" height="34" as="geometry" />
+          <mxGeometry x="141" y="1051" width="147" height="34" as="geometry" />
         </mxCell>
         <UserObject label="" tags="Background" id="w7u0oeEh1lP4t7KCWRCU-93">
           <mxCell style="vsdxID=110;edgeStyle=none;startArrow=none;endArrow=none;startSize=5;endSize=5;strokeWidth=2;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;" parent="1" edge="1">
