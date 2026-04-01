@@ -35,7 +35,7 @@
         <mxCell id="3H3v1bjRvjHBnAMKxuHC-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fontSize=24;fontStyle=1;startArrow=classic;startFill=1;" parent="1" source="3H3v1bjRvjHBnAMKxuHC-10" target="w7u0oeEh1lP4t7KCWRCU-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3IjpjcDPQnYSqdtYRuSm-2" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;专线&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=19;fontStyle=1" parent="3H3v1bjRvjHBnAMKxuHC-11" vertex="1" connectable="0">
+        <mxCell id="3IjpjcDPQnYSqdtYRuSm-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;专线&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontStyle=1" parent="3H3v1bjRvjHBnAMKxuHC-11" vertex="1" connectable="0">
           <mxGeometry x="-0.3563" y="3" relative="1" as="geometry">
             <mxPoint x="14" y="3" as="offset" />
           </mxGeometry>
@@ -63,7 +63,7 @@
             <mxPoint x="457.0100000000002" y="370.10699999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3IjpjcDPQnYSqdtYRuSm-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;互联网&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontStyle=1" parent="3H3v1bjRvjHBnAMKxuHC-7" vertex="1" connectable="0">
+        <mxCell id="3IjpjcDPQnYSqdtYRuSm-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;互联网&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontStyle=1" parent="3H3v1bjRvjHBnAMKxuHC-7" vertex="1" connectable="0">
           <mxGeometry x="-0.4574" y="1" relative="1" as="geometry">
             <mxPoint x="16" as="offset" />
           </mxGeometry>
