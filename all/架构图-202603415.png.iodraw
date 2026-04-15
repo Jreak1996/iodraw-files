@@ -112,17 +112,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3H3v1bjRvjHBnAMKxuHC-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=24;entryX=0.51;entryY=0.972;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="w7u0oeEh1lP4t7KCWRCU-88" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1153" y="547" as="sourcePoint" />
-            <mxPoint x="952" y="435" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1153" y="486" />
-              <mxPoint x="1030" y="486" />
-              <mxPoint x="1030" y="433" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3H3v1bjRvjHBnAMKxuHC-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=24;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" parent="1" source="w7u0oeEh1lP4t7KCWRCU-43" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1913" y="491" as="targetPoint" />
@@ -324,6 +313,9 @@
         </mxCell>
         <mxCell id="w7u0oeEh1lP4t7KCWRCU-88" value="&lt;div style=&quot;font-size: 24px;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px; text-indent: 0px; vertical-align: middle; direction: ltr; font-size: 24px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0); direction: ltr; letter-spacing: 0px; line-height: 120%; opacity: 1; font-size: 24px;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;财报、银行流水、征信&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" style="verticalAlign=middle;align=center;overflow=width;vsdxID=88;fillColor=none;gradientColor=none;strokeColor=none;strokeWidth=2;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;fontSize=24;" parent="1HHwvH-x3lnGizJR7-GM-3" vertex="1">
           <mxGeometry y="106.51753051155544" width="124.00000000000001" height="58.512940361810784" as="geometry" />
+        </mxCell>
+        <mxCell id="1HHwvH-x3lnGizJR7-GM-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.484;entryY=0.957;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="w7u0oeEh1lP4t7KCWRCU-43" target="w7u0oeEh1lP4t7KCWRCU-88">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
