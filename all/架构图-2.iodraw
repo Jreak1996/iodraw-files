@@ -353,7 +353,7 @@
         <mxCell id="REnE3MdE1g5KRaPoMV1N-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.013;entryY=0.653;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" parent="1" source="REnE3MdE1g5KRaPoMV1N-3" target="w7u0oeEh1lP4t7KCWRCU-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Cjsgbm2Paj9cSAnw2_k3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cjsgbm2Paj9cSAnw2_k3-1">
+        <mxCell id="Cjsgbm2Paj9cSAnw2_k3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="Cjsgbm2Paj9cSAnw2_k3-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1071.71" y="1110" as="targetPoint" />
           </mxGeometry>
