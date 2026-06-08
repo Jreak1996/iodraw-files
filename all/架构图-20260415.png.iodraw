@@ -57,8 +57,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IairCEtYDKuslVxGgZDd-99" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IairCEtYDKuslVxGgZDd-94">
+        <mxCell id="IairCEtYDKuslVxGgZDd-99" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2024px%3B%26quot%3B%26gt%3B%26lt%3Bb%20style%3D%26quot%3Bfont-size%3A%2024px%3B%26quot%3B%26gt%3B%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8%26lt%3B%2Fb%26gt%3B%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3BfontSize%3D24%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22934%22%20y%3D%22828%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IairCEtYDKuslVxGgZDd-94">
           <mxGeometry x="-0.6253" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IairCEtYDKuslVxGgZDd-100" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;数据存储&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IairCEtYDKuslVxGgZDd-94">
+          <mxGeometry x="-0.609" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
