@@ -348,7 +348,7 @@
           <mxGeometry y="117.04000000000002" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="REnE3MdE1g5KRaPoMV1N-3" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.mobile" vertex="1" parent="1">
-          <mxGeometry x="50" y="1003" width="35" height="50" as="geometry" />
+          <mxGeometry x="10" y="945.86" width="75" height="107.14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
