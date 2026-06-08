@@ -121,10 +121,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IairCEtYDKuslVxGgZDd-124" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;" vertex="1" parent="IairCEtYDKuslVxGgZDd-126">
-          <mxGeometry width="258.7" height="240" as="geometry" />
+          <mxGeometry y="-10" width="258.7" height="250" as="geometry" />
         </mxCell>
         <mxCell id="IairCEtYDKuslVxGgZDd-125" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;普惠数智平台&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="IairCEtYDKuslVxGgZDd-126">
-          <mxGeometry x="53.700000000000045" y="235" width="130" height="40" as="geometry" />
+          <mxGeometry x="-9.999999999999957" y="-10" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
