@@ -135,7 +135,7 @@
         <mxCell id="D89vr1Y19_UloxpmdraF-8" value="&lt;b style=&quot;font-size: 24px;&quot;&gt;总行人工智能模型技术平台&lt;/b&gt;&lt;span style=&quot;font-size: 24px; background-color: initial;&quot;&gt;&lt;b&gt;(T-MTP)&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="D89vr1Y19_UloxpmdraF-9">
           <mxGeometry y="196" width="196" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D89vr1Y19_UloxpmdraF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;entryX=0.01;entryY=0.507;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+        <mxCell id="D89vr1Y19_UloxpmdraF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;entryX=0.015;entryY=0.538;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="D89vr1Y19_UloxpmdraF-5" target="IairCEtYDKuslVxGgZDd-47">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2174" y="320" as="targetPoint" />
             <mxPoint x="2016" y="320" as="sourcePoint" />
