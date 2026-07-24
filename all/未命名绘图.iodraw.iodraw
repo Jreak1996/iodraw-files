@@ -1,23 +1,26 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="dlWQrYElohcdIIh0KT8y">
-    <mxGraphModel dx="792" dy="1097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="852" dy="1097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="o9j98GFLSANX5uS-hBLu-1" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="1">
-          <mxGeometry x="240" y="340" width="90" height="100" as="geometry" />
+        <mxCell id="o9j98GFLSANX5uS-hBLu-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="240" y="340" width="480" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="o9j98GFLSANX5uS-hBLu-2" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="1">
-          <mxGeometry x="369" y="340" width="90" height="100" as="geometry" />
+        <mxCell id="o9j98GFLSANX5uS-hBLu-1" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="o9j98GFLSANX5uS-hBLu-6">
+          <mxGeometry width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="o9j98GFLSANX5uS-hBLu-3" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="1">
-          <mxGeometry x="630" y="340" width="90" height="100" as="geometry" />
+        <mxCell id="o9j98GFLSANX5uS-hBLu-2" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="o9j98GFLSANX5uS-hBLu-6">
+          <mxGeometry x="129" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="o9j98GFLSANX5uS-hBLu-4" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="1">
-          <mxGeometry x="500" y="340" width="90" height="100" as="geometry" />
+        <mxCell id="o9j98GFLSANX5uS-hBLu-3" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="o9j98GFLSANX5uS-hBLu-6">
+          <mxGeometry x="390" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="o9j98GFLSANX5uS-hBLu-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;应用服务器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="459" y="460" width="151" height="30" as="geometry" />
+        <mxCell id="o9j98GFLSANX5uS-hBLu-4" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="o9j98GFLSANX5uS-hBLu-6">
+          <mxGeometry x="260" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="o9j98GFLSANX5uS-hBLu-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;应用服务器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="o9j98GFLSANX5uS-hBLu-6">
+          <mxGeometry x="170" y="120" width="151" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
