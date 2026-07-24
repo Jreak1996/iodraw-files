@@ -87,10 +87,11 @@
             <mxPoint y="8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3IjpjcDPQnYSqdtYRuSm-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=classic;endFill=1;" parent="1" source="w7u0oeEh1lP4t7KCWRCU-43" edge="1">
+        <mxCell id="3IjpjcDPQnYSqdtYRuSm-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=classic;endFill=1;" parent="1" source="w7u0oeEh1lP4t7KCWRCU-43" target="3H3v1bjRvjHBnAMKxuHC-58" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1778" y="610" />
+              <mxPoint x="1778" y="999" />
             </Array>
             <mxPoint x="2070" y="1010" as="targetPoint" />
           </mxGeometry>
