@@ -7,6 +7,9 @@
         <mxCell id="o9j98GFLSANX5uS-hBLu-18" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1091" y="584" width="300" height="295" as="geometry" />
         </mxCell>
+        <mxCell id="o9j98GFLSANX5uS-hBLu-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="o9j98GFLSANX5uS-hBLu-18">
+          <mxGeometry x="-41" y="-20" width="341" height="315" as="geometry" />
+        </mxCell>
         <mxCell id="o9j98GFLSANX5uS-hBLu-19" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server_storage;" vertex="1" parent="o9j98GFLSANX5uS-hBLu-18">
           <mxGeometry width="105" height="105" as="geometry" />
         </mxCell>
@@ -16,11 +19,8 @@
         <mxCell id="o9j98GFLSANX5uS-hBLu-21" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server_storage;" vertex="1" parent="o9j98GFLSANX5uS-hBLu-18">
           <mxGeometry x="160" width="105" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="o9j98GFLSANX5uS-hBLu-22" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据库集群&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="o9j98GFLSANX5uS-hBLu-18">
+        <mxCell id="o9j98GFLSANX5uS-hBLu-22" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;CRedis集群&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="o9j98GFLSANX5uS-hBLu-18">
           <mxGeometry x="90" y="260" width="104" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="o9j98GFLSANX5uS-hBLu-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="o9j98GFLSANX5uS-hBLu-18">
-          <mxGeometry x="-41" y="-20" width="341" height="315" as="geometry" />
         </mxCell>
         <mxCell id="o9j98GFLSANX5uS-hBLu-11" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1080" y="-70" width="300" height="295" as="geometry" />
