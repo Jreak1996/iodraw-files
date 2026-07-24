@@ -130,7 +130,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="o9j98GFLSANX5uS-hBLu-46" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-233" y="539" width="180" height="230" as="geometry" />
+          <mxGeometry x="-233" y="476" width="180" height="230" as="geometry" />
         </mxCell>
         <mxCell id="o9j98GFLSANX5uS-hBLu-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" vertex="1" parent="o9j98GFLSANX5uS-hBLu-46">
           <mxGeometry width="180" height="230" as="geometry" />
@@ -152,6 +152,9 @@
         </mxCell>
         <mxCell id="o9j98GFLSANX5uS-hBLu-51" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;总行区&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="o9j98GFLSANX5uS-hBLu-48">
           <mxGeometry x="15" y="197" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o9j98GFLSANX5uS-hBLu-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o9j98GFLSANX5uS-hBLu-49" target="o9j98GFLSANX5uS-hBLu-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
