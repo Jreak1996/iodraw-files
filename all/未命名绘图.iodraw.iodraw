@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="o9j98GFLSANX5uS-hBLu-11" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="290" y="640" width="300" height="295" as="geometry" />
+          <mxGeometry x="340" y="640" width="300" height="295" as="geometry" />
         </mxCell>
         <mxCell id="o9j98GFLSANX5uS-hBLu-7" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server_storage;" vertex="1" parent="o9j98GFLSANX5uS-hBLu-11">
           <mxGeometry width="105" height="105" as="geometry" />
@@ -45,9 +45,6 @@
         </mxCell>
         <mxCell id="o9j98GFLSANX5uS-hBLu-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="o9j98GFLSANX5uS-hBLu-13">
           <mxGeometry width="580" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="o9j98GFLSANX5uS-hBLu-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
