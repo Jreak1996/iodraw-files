@@ -132,8 +132,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o9j98GFLSANX5uS-hBLu-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="o9j98GFLSANX5uS-hBLu-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="380" width="350" height="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
