@@ -143,7 +143,7 @@
           <mxGeometry x="-28" y="118.37" width="243" height="69.63" as="geometry" />
         </mxCell>
         <mxCell id="3IjpjcDPQnYSqdtYRuSm-8" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1823.5" y="950" width="159" height="153" as="geometry" />
+          <mxGeometry x="1840" y="740" width="159" height="153" as="geometry" />
         </mxCell>
         <mxCell id="mY8_ipCo88euKz28lbLL-31" value="&lt;div style=&quot;font-size: 24px;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px; text-indent: 0px; vertical-align: middle; direction: ltr; font-size: 24px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0); direction: ltr; letter-spacing: 0px; line-height: 120%; opacity: 1; font-size: 24px;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;总行权限组件&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" style="verticalAlign=middle;align=center;overflow=width;vsdxID=5;fillColor=none;gradientColor=none;strokeColor=none;strokeWidth=2;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;fontSize=24;" parent="3IjpjcDPQnYSqdtYRuSm-8" vertex="1">
           <mxGeometry y="113" width="159" height="40" as="geometry" />
@@ -187,6 +187,9 @@
         </UserObject>
         <mxCell id="w7u0oeEh1lP4t7KCWRCU-37" value="&lt;div style=&quot;font-size: 24px;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px; text-indent: 0px; vertical-align: middle; direction: ltr; font-size: 24px;&quot;&gt;&lt;b style=&quot;text-wrap-mode: nowrap;&quot;&gt;分行云&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;" style="verticalAlign=middle;align=center;overflow=width;vsdxID=37;fillColor=none;gradientColor=none;strokeColor=none;strokeWidth=2;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;fontSize=24;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="632.5" y="1380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0I7v8fqk_Fu1asfXHCmo-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.48;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="w7u0oeEh1lP4t7KCWRCU-43" target="mY8_ipCo88euKz28lbLL-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
