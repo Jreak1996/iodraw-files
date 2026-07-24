@@ -37,8 +37,8 @@
         <mxCell id="o9j98GFLSANX5uS-hBLu-9" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server_storage;" vertex="1" parent="o9j98GFLSANX5uS-hBLu-11">
           <mxGeometry x="160" width="105" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="o9j98GFLSANX5uS-hBLu-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据库集群&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="o9j98GFLSANX5uS-hBLu-11">
-          <mxGeometry x="90" y="260" width="104" height="30" as="geometry" />
+        <mxCell id="o9j98GFLSANX5uS-hBLu-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;GAUSSDB集群&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="o9j98GFLSANX5uS-hBLu-11">
+          <mxGeometry x="90" y="260" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o9j98GFLSANX5uS-hBLu-13" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="190" y="280" width="580" height="240" as="geometry" />
