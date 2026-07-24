@@ -130,7 +130,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="o9j98GFLSANX5uS-hBLu-46" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-207" y="540" width="180" height="230" as="geometry" />
+          <mxGeometry x="-158" y="540" width="180" height="230" as="geometry" />
         </mxCell>
         <mxCell id="o9j98GFLSANX5uS-hBLu-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" vertex="1" parent="o9j98GFLSANX5uS-hBLu-46">
           <mxGeometry width="180" height="230" as="geometry" />
@@ -140,6 +140,9 @@
         </mxCell>
         <mxCell id="o9j98GFLSANX5uS-hBLu-44" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;分行托管云&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="o9j98GFLSANX5uS-hBLu-46">
           <mxGeometry x="15" y="197" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o9j98GFLSANX5uS-hBLu-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-148" y="550" width="180" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
