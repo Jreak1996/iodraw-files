@@ -906,9 +906,6 @@
             <mxGeometry x="24" y="4" width="105" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="o2yHDNHNFGpRfjDMhLAQ-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.523;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5" target="o2yHDNHNFGpRfjDMhLAQ-198">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
