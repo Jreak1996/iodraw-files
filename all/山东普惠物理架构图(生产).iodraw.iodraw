@@ -912,8 +912,11 @@
             <mxPoint x="1954" y="346.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o2yHDNHNFGpRfjDMhLAQ-205" value="&lt;div style=&quot;background-color: rgb(30, 30, 30); line-height: 19px;&quot;&gt;&lt;font face=&quot;Consolas, Courier New, monospace&quot; color=&quot;#ce9178&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space-collapse: preserve;&quot;&gt;http://21.49.118.100:7080&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1920" y="288" width="220" height="30" as="geometry" />
+        <mxCell id="o2yHDNHNFGpRfjDMhLAQ-205" value="&lt;div style=&quot;background-color: rgb(30, 30, 30); line-height: 19px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2020" y="288" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o2yHDNHNFGpRfjDMhLAQ-206" value="http://21.49.118.100:7080" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1992" y="300" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
