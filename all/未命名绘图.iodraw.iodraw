@@ -19,19 +19,19 @@
         <mxCell id="IPW1gLyjd_jOe_HeqrqI-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;硬件层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="130" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IPW1gLyjd_jOe_HeqrqI-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;AI应用管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="IPW1gLyjd_jOe_HeqrqI-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;AI应用管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9933;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="290" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IPW1gLyjd_jOe_HeqrqI-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;工作流配置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="IPW1gLyjd_jOe_HeqrqI-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;工作流配置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9933;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="460" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IPW1gLyjd_jOe_HeqrqI-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;提示词配置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="IPW1gLyjd_jOe_HeqrqI-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;提示词配置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9933;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="630" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IPW1gLyjd_jOe_HeqrqI-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;审查结果展示&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="IPW1gLyjd_jOe_HeqrqI-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;审查结果展示&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9933;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="790" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IPW1gLyjd_jOe_HeqrqI-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;报告生成&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="IPW1gLyjd_jOe_HeqrqI-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;报告生成&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9933;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="950" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
