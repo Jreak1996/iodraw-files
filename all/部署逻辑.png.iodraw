@@ -74,7 +74,7 @@
           <mxGeometry x="310" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fhTGfOHYV0_ExNbiOOgY-23" value="后端-Dify≥2服务实例" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="420" y="556" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
