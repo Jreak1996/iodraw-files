@@ -28,8 +28,14 @@
         <mxCell id="fhTGfOHYV0_ExNbiOOgY-9" value="&lt;b&gt;AI应用开发平台&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="220" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fhTGfOHYV0_ExNbiOOgY-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fhTGfOHYV0_ExNbiOOgY-10" target="fhTGfOHYV0_ExNbiOOgY-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fhTGfOHYV0_ExNbiOOgY-10" value="前端-Nginx≥2实例" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="420" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fhTGfOHYV0_ExNbiOOgY-11" value="后端-Dify≥2服务实例" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
