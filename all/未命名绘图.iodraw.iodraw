@@ -5,18 +5,18 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IPW1gLyjd_jOe_HeqrqI-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="90" y="190" width="1000" height="650" as="geometry" />
+          <mxGeometry x="90" y="190" width="1000" height="680" as="geometry" />
         </mxCell>
-        <mxCell id="IPW1gLyjd_jOe_HeqrqI-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;应用层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="IPW1gLyjd_jOe_HeqrqI-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;应用层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="130" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IPW1gLyjd_jOe_HeqrqI-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;业务层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="IPW1gLyjd_jOe_HeqrqI-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;业务层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="130" y="320" width="120" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="IPW1gLyjd_jOe_HeqrqI-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;模型层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="IPW1gLyjd_jOe_HeqrqI-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;模型层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="130" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IPW1gLyjd_jOe_HeqrqI-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;模型层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="IPW1gLyjd_jOe_HeqrqI-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;硬件层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="130" y="770" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
