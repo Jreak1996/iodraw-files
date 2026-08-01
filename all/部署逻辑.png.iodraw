@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fhTGfOHYV0_ExNbiOOgY-6" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=1;fillColor=none;dashed=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="60" width="590" height="610" as="geometry" />
+        </mxCell>
         <mxCell id="fhTGfOHYV0_ExNbiOOgY-1" value="总行大模型服务平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c7dcfb;" vertex="1" parent="1">
           <mxGeometry x="70" y="350" width="120" height="60" as="geometry" />
         </mxCell>
@@ -16,14 +19,11 @@
         <mxCell id="fhTGfOHYV0_ExNbiOOgY-5" value="分行特色数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c7dcfb;" vertex="1" parent="1">
           <mxGeometry x="570" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fhTGfOHYV0_ExNbiOOgY-6" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=1;fillColor=none;dashed=1;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="60" width="590" height="610" as="geometry" />
-        </mxCell>
         <mxCell id="fhTGfOHYV0_ExNbiOOgY-7" value="分行" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="210" y="60" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fhTGfOHYV0_ExNbiOOgY-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="240" width="420" height="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
