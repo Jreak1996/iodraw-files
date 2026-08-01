@@ -19,11 +19,11 @@
         <mxCell id="IPW1gLyjd_jOe_HeqrqI-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;硬件层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="130" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IPW1gLyjd_jOe_HeqrqI-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;应用层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="IPW1gLyjd_jOe_HeqrqI-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;AI应用管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="290" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IPW1gLyjd_jOe_HeqrqI-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;应用层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="420" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IPW1gLyjd_jOe_HeqrqI-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;应用层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="720" y="220" width="120" height="60" as="geometry" />
