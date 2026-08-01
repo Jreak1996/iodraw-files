@@ -11,7 +11,7 @@
           <mxGeometry x="70" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fhTGfOHYV0_ExNbiOOgY-3" value="分行办公网络" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c7dcfb;" vertex="1" parent="1">
-          <mxGeometry x="410" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fhTGfOHYV0_ExNbiOOgY-4" value="分行特色系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c7dcfb;" vertex="1" parent="1">
           <mxGeometry x="800" y="285" width="120" height="60" as="geometry" />
@@ -19,14 +19,17 @@
         <mxCell id="fhTGfOHYV0_ExNbiOOgY-5" value="分行特色数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c7dcfb;" vertex="1" parent="1">
           <mxGeometry x="800" y="415" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fhTGfOHYV0_ExNbiOOgY-7" value="分行" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="fhTGfOHYV0_ExNbiOOgY-7" value="&lt;b&gt;分行&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="210" y="60" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fhTGfOHYV0_ExNbiOOgY-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="220" width="530" height="430" as="geometry" />
         </mxCell>
         <mxCell id="fhTGfOHYV0_ExNbiOOgY-9" value="&lt;b&gt;AI应用开发平台&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="210" y="220" width="110" height="30" as="geometry" />
+          <mxGeometry x="240" y="220" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fhTGfOHYV0_ExNbiOOgY-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
