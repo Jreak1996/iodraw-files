@@ -35,7 +35,7 @@
           <mxGeometry x="950" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IPW1gLyjd_jOe_HeqrqI-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;数据组装&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B5EBFF;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="290" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="320" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IPW1gLyjd_jOe_HeqrqI-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;规则组装&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B5EBFF;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="460" y="320" width="120" height="60" as="geometry" />
