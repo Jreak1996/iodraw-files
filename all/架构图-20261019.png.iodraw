@@ -450,6 +450,9 @@
         <mxCell id="w7u0oeEh1lP4t7KCWRCU-14" value="&lt;div style=&quot;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px; text-indent: 0px; vertical-align: middle; direction: ltr;&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;color: rgb(0, 0, 0); direction: ltr; letter-spacing: 0px; line-height: 120%; opacity: 1;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;CRedis&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;&lt;b&gt;集群&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="verticalAlign=middle;align=center;overflow=width;vsdxID=14;fillColor=none;gradientColor=none;strokeColor=none;strokeWidth=2;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="4nJy0Bb5zpVgp6h7EosA-8" vertex="1">
           <mxGeometry x="77" y="66" width="112" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="4nJy0Bb5zpVgp6h7EosA-9" value="WEB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="838" y="1043" width="45" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
