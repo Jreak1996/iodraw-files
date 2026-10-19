@@ -445,8 +445,8 @@
         <mxCell id="mY8_ipCo88euKz28lbLL-69" value="客户端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="mY8_ipCo88euKz28lbLL-70" vertex="1">
           <mxGeometry x="10.5" y="80" width="54" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="4nJy0Bb5zpVgp6h7EosA-9" value="WEB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mY8_ipCo88euKz28lbLL-70">
-          <mxGeometry x="15" y="19" width="45" height="26" as="geometry" />
+        <mxCell id="4nJy0Bb5zpVgp6h7EosA-9" value="&lt;b&gt;WEB&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mY8_ipCo88euKz28lbLL-70">
+          <mxGeometry x="15" y="19" width="46" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
