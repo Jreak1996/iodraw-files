@@ -458,8 +458,8 @@
             <mxPoint x="720" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mY8_ipCo88euKz28lbLL-3" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;第三方接口&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="309" y="1120" width="120" height="40" as="geometry" />
+        <mxCell id="mY8_ipCo88euKz28lbLL-3" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;专线&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="339" y="1118" width="56" height="35" as="geometry" />
         </mxCell>
         <mxCell id="mY8_ipCo88euKz28lbLL-4" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;分行普惠金融数智平台&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1212.5" y="1120" width="210" height="40" as="geometry" />
