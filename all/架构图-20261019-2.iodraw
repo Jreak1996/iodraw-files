@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="csoFfmKZS3dwTSRtYqNu">
-    <mxGraphModel dx="2082" dy="947" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1553" dy="649" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,18 +50,6 @@
         <mxCell id="NRda73zQfcUfm1y26c1x-15" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;DMZ内网&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="w7u0oeEh1lP4t7KCWRCU-35">
           <mxGeometry x="82.27999999999997" y="320" width="97" height="35" as="geometry" />
         </mxCell>
-        <UserObject label="" tags="Background" id="w7u0oeEh1lP4t7KCWRCU-107">
-          <mxCell style="vsdxID=103;edgeStyle=none;startArrow=none;endArrow=block;startSize=5;endSize=5;strokeWidth=2;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.004651162790697674;entryY=0.5092250922509225;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="NRda73zQfcUfm1y26c1x-6" target="w7u0oeEh1lP4t7KCWRCU-36" edge="1">
-            <mxGeometry relative="1" as="geometry">
-              <mxPoint x="-49" y="102" as="offset" />
-              <Array as="points">
-                <mxPoint x="211.75" y="464" />
-                <mxPoint x="211.75" y="464.90999999999997" />
-              </Array>
-              <mxPoint x="134" y="501.77372262773724" as="sourcePoint" />
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
         <UserObject label="" tags="Background" id="w7u0oeEh1lP4t7KCWRCU-108">
           <mxCell style="vsdxID=104;edgeStyle=none;startArrow=none;endArrow=block;startSize=5;endSize=5;strokeWidth=2;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;exitX=1.0044642857142858;exitY=0.5055350553505535;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.4414715719063545;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="w7u0oeEh1lP4t7KCWRCU-50" edge="1">
             <mxGeometry relative="1" as="geometry">
